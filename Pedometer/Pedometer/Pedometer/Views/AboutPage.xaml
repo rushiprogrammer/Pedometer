@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="About"
+             BackgroundColor="{DynamicResource BackgroundColor}"
+             x:Class="Pedometer.Views.AboutPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="16">
+                <Label TextColor="{DynamicResource TextPrimaryColor}" Text="Privacy Policy" FontSize="Title" />
+                <Label TextColor="{DynamicResource TextPrimaryColor}">Privacy Policy
+We knows that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because We  is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page.
+Third Party Discosure:
+We  do not sell,trade,or otherwise transfer to outside parties your personal identifiable information.Personal information includes all information or data that could reasonably be used to identify a person. Examples of personal information include: contacts, photos, phone number, audio and video recordings, location, SMS or other text communication, screen shots, unique account identifiers, unique identifiers based on the computer's hardware, and in some cases, combined browsing history.
+
+                </Label>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

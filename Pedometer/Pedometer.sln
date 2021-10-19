@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedometer.Android", "Pedometer\Pedometer.Android\Pedometer.Android.csproj", "{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedometer", "Pedometer\Pedometer\Pedometer.csproj", "{3BD8D760-29D5-40DD-BFD7-972947DC1213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F33569-8E52-4F4E-9E87-8BF8D794C0C6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD8D760-29D5-40DD-BFD7-972947DC1213}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9C2A94-DCD9-4B4A-886F-59CF943E89F2}
+	EndGlobalSection
+EndGlobal
